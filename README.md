@@ -23,7 +23,7 @@ I'm a computer science student passionate about building real-world applications
 
 ### 🛠️ Currently Learning
 - Object-Oriented Design Patterns
-- Data Structures
+- Data Structures and Algorithms
 
 ### 📫 How to Reach Me
 - GitHub: [@ObaidullahDarwishi](https://github.com/ObaidullahDarwishi)
