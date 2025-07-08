@@ -28,6 +28,6 @@ I'm a computer science student passionate about building real-world applications
 
 ### 📫 How to Reach Me
 - GitHub: [@ObaidullahDarwishi](https://github.com/ObaidullahDarwishi)
-- Email: *(add your email if you'd like)*
+- Email: obaidullahdarwishi@gmail.com
 
 
