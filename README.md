@@ -22,9 +22,8 @@ I'm a computer science student passionate about building real-world applications
 - [📇 Contact Manager](https://github.com/ObaidullahDarwishi/Contact-Manager): A Java console app that lets users manage contacts (add, search, sort, delete) using merge sort and binary search. Great for practicing data structures and algorithms.
 
 ### 🛠️ Currently Learning
-- JavaFX for GUI-based apps
-- Git & GitHub for version control
 - Object-Oriented Design Patterns
+- Data Structures
 
 ### 📫 How to Reach Me
 - GitHub: [@ObaidullahDarwishi](https://github.com/ObaidullahDarwishi)
